@@ -20,7 +20,8 @@ trait CreateApplication
     /**
      * Define environment setup.
      *
-     * @param  \Illuminate\Foundation\Application  $app
+     * @param \Illuminate\Foundation\Application $app
+     *
      * @return void
      */
     protected function getEnvironmentSetUp($app)
@@ -36,8 +37,7 @@ trait CreateApplication
     protected function getPackageProviders($app)
     {
         return [
-            \Orchestra\Database\ConsoleServiceProvider::class
+            \Orchestra\Database\ConsoleServiceProvider::class,
         ];
     }
-
 }

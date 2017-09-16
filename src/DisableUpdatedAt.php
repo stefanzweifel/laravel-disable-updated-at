@@ -14,10 +14,12 @@ trait DisableUpdatedAt
             $model->timestamps = true;
         });
     }
+
     public function setUpdatedAt($value)
     {
         //
     }
+
     public function getUpdatedAtColumn()
     {
         return '';

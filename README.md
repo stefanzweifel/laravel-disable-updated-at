@@ -12,7 +12,7 @@ A quick and easy way to disable the `updated_at` column on an Eloquent Model.
 The easiest way to install the the script is by using composer.
 
 ```shell
-composer require wnx/larvel-disable-updated-at
+composer require wnx/laravel-disable-updated-at
 ```
 
 ## Usage

@@ -1,12 +1,12 @@
 {
-    "name": "wnx/larvel-disable-updated-at",
+    "name": "wnx/laravel-disable-updated-at",
     "description": "A trait to disable the updated_at column on a Laravel Eloquent Model",
     "keywords": [
         "wnx",
         "laravel",
         "updated_at"
     ],
-    "homepage": "https://github.com/stefanzweifel/larvel-disable-updated-at",
+    "homepage": "https://github.com/stefanzweifel/laravel-disable-updated-at",
     "license": "MIT",
     "authors": [
         {

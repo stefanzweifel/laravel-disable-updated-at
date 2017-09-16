@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/stefanzweifel/laravel-disable-updated-at.svg)](https://travis-ci.org/stefanzweifel/laravel-disable-updated-at)
 [![StyleCI](https://styleci.io/repos/103444695/shield?branch=master)](https://styleci.io/repos/103444695)
+[![Latest Stable Version](https://poser.pugx.org/wnx/laravel-disable-updated-at/v/stable)](https://packagist.org/packages/wnx/laravel-disable-updated-at)
+[![Total Downloads](https://poser.pugx.org/wnx/laravel-disable-updated-at/downloads)](https://packagist.org/packages/wnx/laravel-disable-updated-at)
 [![License](https://poser.pugx.org/wnx/laravel-disable-updated-at/license)](https://packagist.org/packages/wnx/laravel-disable-updated-at)
 
 

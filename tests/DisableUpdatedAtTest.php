@@ -4,8 +4,8 @@ namespace Wnx\DisableUpdatedAt\Tests;
 
 use Illuminate\Database\QueryException;
 use Orchestra\Testbench\TestCase;
-use Wnx\DisableUpdatedAt\Tests\Stubs\User;
 use Wnx\DisableUpdatedAt\Tests\Stubs\Post;
+use Wnx\DisableUpdatedAt\Tests\Stubs\User;
 
 class DisableUpdatedAtTest extends TestCase
 {

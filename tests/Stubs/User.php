@@ -11,11 +11,9 @@ class User extends Model
 
     protected $fillable = ['name', 'password'];
 
-
-
     public static function testStub()
     {
-        $user = new self;
+        $user = new self();
         $user->name = 'Foo';
         $user->email = 'foo@bar.com';
         $user->password = bcrypt('secret');
@@ -23,7 +21,4 @@ class User extends Model
 
         return $user;
     }
-
-
-
 }

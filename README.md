@@ -1,5 +1,10 @@
 # Laravel DisableUpdatedAt Trait
 
+[![Build Status](https://travis-ci.org/stefanzweifel/laravel-disable-updated-at.svg)](https://travis-ci.org/stefanzweifel/laravel-disable-updated-at)
+[![StyleCI](https://styleci.io/repos/103444695/shield?branch=master)](https://styleci.io/repos/103444695)
+[![License](https://poser.pugx.org/wnx/laravel-disable-updated-at/license)](https://packagist.org/packages/wnx/laravel-disable-updated-at)
+
+
 A quick and easy way to disable the `updated_at` column on an Eloquent Model.
 
 ### Installing

@@ -7,7 +7,7 @@
 [![License](https://poser.pugx.org/wnx/laravel-disable-updated-at/license)](https://packagist.org/packages/wnx/laravel-disable-updated-at)
 
 
-A quick and easy way to disable the `updated_at` column on an Eloquent Model.
+A quick and easy way to disable the `updated_at` column on an Eloquent Model. (For more information on how to use this Trait read [this blog post](https://stefanzweifel.io/posts/disableupdatedat-trait-for-laravel-5-4))
 
 ### Installing
 

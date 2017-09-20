@@ -17,6 +17,17 @@ The easiest way to install the the script is by using composer.
 composer require wnx/laravel-disable-updated-at
 ```
 
+**Using Laravel >=5.5.5?**: If you've installed Laravel Version >= 5.5.5 you don't need this package. The behaviour [has been updated](https://github.com/laravel/framework/pull/21178) in the [5.5.5 Release](https://github.com/laravel/framework/releases/tag/v5.5.5).
+You can disable the `updated_at` column by updating the `UPDATED_AT` constant like this:
+
+```php
+class Page extends Model
+{
+    const UPDATED_AT = null;
+}
+```
+
+
 ## Usage
 
 After installing the package you can use the trait in your models like this:

@@ -54,5 +54,4 @@ class DisableUpdatedAtTest extends TestCase
 
         $this->assertEquals('', $user->getUpdatedAtColumn());
     }
-
 }

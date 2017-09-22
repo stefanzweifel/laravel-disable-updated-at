@@ -1,6 +1,7 @@
 # Laravel DisableUpdatedAt Trait
 
 [![Build Status](https://travis-ci.org/stefanzweifel/laravel-disable-updated-at.svg)](https://travis-ci.org/stefanzweifel/laravel-disable-updated-at)
+[![Coverage Status](https://coveralls.io/repos/github/stefanzweifel/laravel-disable-updated-at/badge.svg?branch=feature%2Fadd-coveralls)](https://coveralls.io/github/stefanzweifel/laravel-disable-updated-at?branch=feature%2Fadd-coveralls)
 [![StyleCI](https://styleci.io/repos/103444695/shield?branch=master)](https://styleci.io/repos/103444695)
 [![Latest Stable Version](https://poser.pugx.org/wnx/laravel-disable-updated-at/v/stable)](https://packagist.org/packages/wnx/laravel-disable-updated-at)
 [![Total Downloads](https://poser.pugx.org/wnx/laravel-disable-updated-at/downloads)](https://packagist.org/packages/wnx/laravel-disable-updated-at)

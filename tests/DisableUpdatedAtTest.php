@@ -46,4 +46,12 @@ class DisableUpdatedAtTest extends TestCase
 
         $post->update(['content' => "I'm alive!"]);
     }
+
+    /** @test */
+    public function it_returns_an_empty_string_for_updated_at_column()
+    {
+        $user = User::testStub();
+
+        $this->assertEquals('', $user->getUpdatedAtColumn());
+    }
 }
